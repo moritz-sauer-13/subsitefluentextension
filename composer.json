@@ -1,5 +1,5 @@
 {
-    "name":"innomedia/subsitefluentextensions",
+    "name":"moritz-sauer-13/subsitefluentextensions",
     "description": "Silverstripe 4 Subsite Fluent Extensions",
     "license": "BSD-3-Clause",
     "authors": [
@@ -9,7 +9,7 @@
       }
     ],
     "require": {
-        "silverstripe/framework": "^4"
+        "silverstripe/framework": "^4 || ^5"
     },
     "autoload": {
       "psr-4": {
